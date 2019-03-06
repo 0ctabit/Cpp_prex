@@ -1,1 +1,2 @@
-# Cpp_prex
+
+C++ programming exercises from various books
