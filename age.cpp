@@ -1,3 +1,7 @@
+//ex.15.2 (from H.M. Deitel, P.J. Deitel - "C how to programm, 2nd ed.")
+
+
+
 #include <iostream>
 
 
